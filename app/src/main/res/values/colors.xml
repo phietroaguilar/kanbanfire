@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="color_default">#AF8245</color>
+	<color name="primary">#49494D</color>
+
+	<color name="button_remove">#FF4747</color>
+	<color name="button_edit">#04D5C1</color>
+	<color name="button_details">#77DB73</color>
+
+	<color name="color_status_todo">#FF5722</color>
+	<color name="color_status_done">#4CAF50</color>
+</resources>
